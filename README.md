@@ -7,12 +7,12 @@
 
 ## Project Specifications
 
-- |x| Install 'npm i faker' to create fake comments, pictures, names, ...
-- |x| Intall Firebase dependencies: npm i firebase
-- |x| Configure Firebase to storage data (name and url of picture)
-- |x| Create firebase.js and copy/paste the config
-- |x| Go to firebase / cloud firestore / create databse / test mode / active
-- |x| Start a collection + fill input + generate auto ID and save
+- [x] Install 'npm i faker' to create fake comments, pictures, names, ...
+- [x] Intall Firebase dependencies: npm i firebase
+- [x] Configure Firebase to storage data (name and url of picture)
+- [x] Create firebase.js and copy/paste the config
+- [x] Go to firebase / cloud firestore / create databse / test mode / active
+- [x] Start a collection + fill input + generate auto ID and save
 
 ## Deploy project using Firebase
 
