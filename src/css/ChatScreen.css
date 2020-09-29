@@ -1,0 +1,55 @@
+.chatscreen .matched {
+  text-align: center;
+  color: #999;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.chatscreen .details {
+  margin: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.chatscreen .details .message {
+  margin-left: 10px;
+  background-color: lightgray;
+  padding: 10px 15px;
+  border-radius: 20px;
+  color: #444;
+  font-size: 14px;
+}
+
+.chatscreen .details .message.text-user {
+  margin-left: auto;
+  background-color: lightseagreen;
+  color: #fff;
+}
+
+.chatscreen .form {
+  display: flex;
+  padding: 5px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid lightgray;
+}
+
+.chatscreen .form input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+}
+
+.chatscreen .form button {
+  border: none;
+  background-color: #fff;
+  margin-right: 20px;
+  padding: 0 20px;
+  font-weight: bold;
+  color: #fe3d71;
+  cursor: pointer;
+  text-transform: uppercase;
+}

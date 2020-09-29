@@ -1,3 +1,11 @@
+:root {
+  --orange-color: #f5b748;
+  --red-color: #ec5e6f;
+  --blue-color: #62b4f9;
+  --green-color: #76e2b3;
+  --purple-color: #915dd1;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -6,4 +14,15 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }

@@ -1,0 +1,26 @@
+.chat {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 30px;
+}
+
+.chat .details {
+  flex: 1;
+  margin: 0 60px 0 20px;
+}
+
+.chat .details h2 {
+  font-size: 16px;
+  color: #444;
+}
+
+.chat .details p {
+  font-size: 14px;
+  color: #777;
+}
+
+.chat .timestamp {
+  color: #999;
+  font-size: 12px;
+}
