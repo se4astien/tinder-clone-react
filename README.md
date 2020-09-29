@@ -1,4 +1,4 @@
-## Tinder Clone with React JS
+## Tinder Clone using React JS and Firebase
 
 1. Create a clone of Tinder App using React JS and Firebase to store all files.
 2. You can swipe to the left or to the right
