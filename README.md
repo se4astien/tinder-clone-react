@@ -16,21 +16,27 @@
 
 ## Deploy project using Firebase
 
-<ul>
-    <li>In terminal: firebase init</li>
-    <li>hoisting (press space bar) and enter</li>
-    <li>use an existing project</li>
-    <li>choose your project</li>
-    <li>build</li>
-    <li>yes</li>
-    <li>firebase deploy</li>
-</ul>
+```bash
+Firebase:
+
+firebase login
+firebase init
+deploy project (space + enter)
+use an existing project
+choose the project
+build
+yes
+npm run build
+firebase deploy
+```
 
 ## Package that I used
 
+```bash
 https://www.npmjs.com/package/react-tinder-card  
 https://www.npmjs.com/package/faker  
 https://material-ui.com/api/icon-button/
+```
 
 ## Screenshot
 
