@@ -1,4 +1,4 @@
-## Tinder Cloen with React JS
+## Tinder Clone with React JS
 
 1. Create a clone of Tinder App using React JS and Firebase to store all files.
 2. You can swipe to the left or to the right
@@ -35,7 +35,7 @@ https://material-ui.com/api/icon-button/
 ## Screenshot
 
 <div style="display:flex">
-<img src="https://github.com/se4astien/tinder-clone-react/blob/master/src/screenshot/tinder-clone-01.png" alt="Tinder Clone 01"  width="30%" />
-<img src="https://github.com/se4astien/tinder-clone-react/blob/master/src/screenshot/tinder-clone-02.png" alt="Tinder Clone 02"  width="30%" />
-<img src="https://github.com/se4astien/tinder-clone-react/blob/master/src/screenshot/tinder-clone-03.png" alt="Tinder Clone 03"  width="30%" />
+<img src="https://github.com/se4astien/tinder-clone-react/blob/master/src/screenshot/tinder-clone-01.png" alt="Tinder Clone 01"  width="33%" />
+<img src="https://github.com/se4astien/tinder-clone-react/blob/master/src/screenshot/tinder-clone-02.png" alt="Tinder Clone 02"  width="33%" />
+<img src="https://github.com/se4astien/tinder-clone-react/blob/master/src/screenshot/tinder-clone-03.png" alt="Tinder Clone 03"  width="33%" />
 </div>
